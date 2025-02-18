@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.3.30",
+    "@langchain/core": "^0.3.40",
+    "@langchain/openai": "^0.4.4",
+    "d3-dsv": "^2.0.0",
+    "dotenv": "^16.4.7",
+    "hnswlib-node": "^3.0.0",
+    "langchain": "^0.3.15"
+  }
+}

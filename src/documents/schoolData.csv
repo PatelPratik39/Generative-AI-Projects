@@ -1,0 +1,21 @@
+Version #,Date,Reasoning
+1,2024-10-22,"Initial report creation
+
+Note: ISBE is still working on getting the CPS 5Essentails data file and the SPP data loaded.  Once this data is loaded, we will then generate an updated version of this report.
+"
+2,2024-11-01,CPS 5Essentials and SPP data has been added.
+3,2024-11-20,"> CRDC data has been added
+> Eighth Grade Passing Algebra I data has been updated
+> IAR/SAT/DLM/ISA Proficiency Rate data has been updated to include data redaction rules
+> Grades Served data has been updated
+> Illinois Mathematics and Science Academy metrics have been added
+"
+4,2024-12-03,"> Redaction rules applied to KIDS data
+> School Type and District Type data updated
+> Illinois Mathematics and Science Academy additional metrics added
+"
+5,2024-12-06,Title I data has been updated
+,,
+,,
+"Note: Any data field containing an ""*"" indicates the data has been redacted due to privacy concerns.  See ""Data Display"" business rules for additional details.",,
+,,Public Business Rules for 2024 Report Card Metrics
